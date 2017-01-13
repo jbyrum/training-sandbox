@@ -9,5 +9,6 @@
   "addons": [
     "heroku-postgresql:hobby-dev"
   ],
-  "keywords": ["plone", "training"]
+  "keywords": ["plone", "training"],
+  "stack", "heroku-16"
 }
