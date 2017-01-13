@@ -10,5 +10,5 @@
     "heroku-postgresql:hobby-dev"
   ],
   "keywords": ["plone", "training"],
-  "stack", "heroku-16"
+  "stack": "heroku-16"
 }
